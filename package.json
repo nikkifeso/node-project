@@ -1,0 +1,28 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkifeso/node-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkifeso/node-project/issues"
+  },
+  "homepage": "https://github.com/nikkifeso/node-project#readme",
+  "devDependencies": {
+    "mocha": "^8.3.1",
+    "should": "^13.2.3",
+    "supertest": "^6.1.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
